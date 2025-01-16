@@ -1,2 +1,8 @@
 # Flappy-Frog
-Este es un juego hecho en scratch que consiste en un flappy frog, es decir una rana que ira saltando entre unas fuentes 
+Este juego consiste en un bucle infinito saltando a traves de fuentes, además incluye algunos secretos a lo largo que vas avanzando.
+
+## Miembros del equipo
+
+- Alfonso
+- Sergio
+- Amine
