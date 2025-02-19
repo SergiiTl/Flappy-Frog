@@ -53,7 +53,10 @@ Y en el segundo dia de la semana hemos acabado de añadir los modelos que vamos 
 
 Durante la cuarta semana hemos acabado de configurar el juego, hemos configurado la pantalla de perder e inicio para que salgan en su momento determinado, hemos implementado un sistema en el cual cada 10 puntos que consigas la rana aumenta un 10% de tamaño con limite cuando llegues a 30 puntos y tambien hemos implementado los sonidos finales de cada animacion, como el sonido de transformacion cuando la rana se hace más grande.
 
-![image](https://github.com/user-attachments/assets/a958efb4-ea7a-4f78-99ce-c099da7af9e9)
+![image](https://github.com/user-attachments/assets/a958efb4-ea7a-4f78-99ce-c099da7af9e9)![image](https://github.com/user-attachments/assets/ef69f653-9f0b-40ca-891e-38f830e8868f)
+
+Hemos diseñado este juego basado en Flappy Bird debido a que este es un juego bastante entretenido e interesante y además de eso le hemos añadido efectos de sonido, sonidos de fondo y otros extras como el de cambiar de tamaño con el fin de hacerlo mas divertido.
+
 
 
 
