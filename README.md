@@ -3,6 +3,4 @@ Este juego consiste en un bucle infinito saltando a traves de fuentes, además i
 
 ## Miembros del equipo
 
-- Alfonso
-- Sergio
-- Amine
+- Alfonso  - Sergio  - Amine
