@@ -26,7 +26,7 @@ Pinterest: https://es.pinterest.com/#search
 
 ## Primera semana del proyecto (13-17 enero)
 
-En esta primera semana hemos empezando buscando y seleccionando los modelos de los objetos y figuras que vamos a usar en el juego y ademas en algunos como la rana hemos mejorado su calidad de imagen con otras paginas. Para la busqieda de estas imagenes usamos paginas como google para las figuras y Pinterest para la imagen de fondo.
+En esta primera semana hemos empezando buscando y seleccionando los modelos de los objetos y figuras que vamos a usar en el juego y ademas en algunos como la rana hemos mejorado su calidad de imagen con otras paginas. Para la busqueda de estas imagenes usamos paginas como google para las figuras y Pinterest para la imagen de fondo.
                                                                                           
 ![image](https://github.com/user-attachments/assets/50f47e35-6d0c-49c3-8420-34d3782c46c9) 
                                                                                           ![image](https://github.com/user-attachments/assets/6763dafb-e2ac-4117-81c0-73d5c534f1aa)
