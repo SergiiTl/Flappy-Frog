@@ -23,6 +23,7 @@ Pinterest: https://es.pinterest.com/#search
 #### - Sergio
 #### - Amine
 
+
 ## Primera semana del proyecto (13-17 enero)
 
 En esta primera semana hemos empezando buscando y seleccionando los modelos de los objetos y figuras que vamos a usar en el juego y ademas en algunos como la rana hemos mejorado su calidad de imagen con otras paginas. Para la busqieda de estas imagenes usamos paginas como google para las figuras y Pinterest para la imagen de fondo.
@@ -33,6 +34,7 @@ En esta primera semana hemos empezando buscando y seleccionando los modelos de l
 
 Hemos elegido estos modelos para hacer el juego de una forma mas original y divertido, en principio ibamos a poner fuentes en vez de tubos pero debido a que habia que estirar las fuentes para que se encontrasen a diferentes alturas no hemos podido implementar ese modelo.
 
+
 ## Segunda semana del proyecto (27-31 enero) 
 
 En la segunda semana nos hemos dedicado en el primer dia a buscar he implementar algunos sonidos como el de coger una moneda (similar al sonido de Mario Bros), el de cuando la rana salta, un sonido de fondo al empezar a jugar, etc...
@@ -42,12 +44,14 @@ Por otro lado, en el segundo dia nos hemos dedicado a empezar con el codigo del 
 
 Estos cambios han sido hechos para que el juego cuente con un ambiente y buenos efectos de sonido.
 
+
 ## Tercera semana del proyecto (3-7 febrero)
 
 En esta tercera semana hemos empezado a configurar las fisicas, movimiento, tamaño y altura de los tubos por los que hay que pasar.
 Y en el segundo dia de la semana hemos acabado de añadir los modelos que vamos a usar, donde se incluyen los números del marcador, la pantalla de inicio y al perder y un recuadro que te dice como empezar a jugar con una imagen de una bandera.
 
 ![image](https://github.com/user-attachments/assets/837ad6ea-d3cc-4156-ad73-364a01c2c72c)![image](https://github.com/user-attachments/assets/8dc6c22d-78c2-41a9-900a-b4bf88e0a1f8)![image](https://github.com/user-attachments/assets/3788048b-8f86-4714-a5e7-9a89c1d1bd9e)
+
 
 ## Cuarta semana del proyecto (10-14 febrero)
 
